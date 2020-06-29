@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mini-ecom"
+    }
+  },
+  "defaultProject": "mini-ecom",
+  "cli": {
+    "analytics": false
+  }
 }
